@@ -1,2 +1,3 @@
 #忽略開發端的VSCode設定檔
 /.vscode
+/**/__pycache__
